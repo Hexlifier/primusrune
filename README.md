@@ -1,0 +1,2 @@
+# primusrune
+Easy rune translatot
