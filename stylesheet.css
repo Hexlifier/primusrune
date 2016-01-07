@@ -1,0 +1,11 @@
+.rune {
+    width: 32px;
+    height: 32px;
+    border: 1px;
+    float: left;
+}
+
+.column {
+    width: 200px;
+    float: left;
+}

@@ -1,2 +1,2 @@
 # primusrune
-Easy rune translatot
+Easy rune translator + tooling
